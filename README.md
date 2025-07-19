@@ -36,13 +36,13 @@ python analise_papelaria.py
 
 ---
 
-![grafico](image.png)
+[grafico](image.png)
 
 ---
 
-![grafico 2](image-1.png)
+[grafico 2](image-1.png)
 
 ---
 
-![grafico 3](image-2.png)
+[grafico 3](image-2.png)
 
