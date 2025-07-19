@@ -33,3 +33,16 @@ Certifique-se de que o arquivo `dados_papelaria.xlsx` está no mesmo diretório 
 
 ```bash
 python analise_papelaria.py
+
+---
+
+![grafico](image.png)
+
+---
+
+![grafico 2](image-1.png)
+
+---
+
+![grafico 3](image-2.png)
+
