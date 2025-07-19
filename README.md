@@ -35,14 +35,17 @@ Certifique-se de que o arquivo `dados_papelaria.xlsx` está no mesmo diretório 
 python analise_papelaria.py
 ---
 
-<img width="1732" height="911" alt="image" src="https://github.com/user-attachments/assets/91ab064a-241d-4b71-8a48-b54403c7df57" />
+## 🖼️ Exemplos Visuais
 
----
+Os gráficos são exibidos automaticamente ao executar o script:
 
-<img width="1663" height="895" alt="image" src="https://github.com/user-attachments/assets/ef93644f-5508-49e9-a578-cbdc52edb1e1" />
+- 📈 Evolução de faturamento  
+![Evolução de faturamento](image.png)
 
----
+- 📊 Categorias mais vendidas  
+![Categorias mais vendidas](image-1.png)
 
-<img width="1605" height="893" alt="image" src="https://github.com/user-attachments/assets/e888cf21-33a1-4cf0-b858-f14c7076faa4" />
+- 🧾 Estoque atual por categoria  
+![Estoque atual](image-2.png)
 
 
